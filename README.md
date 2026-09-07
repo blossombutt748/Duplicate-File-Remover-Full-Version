@@ -239,3 +239,6 @@ This repository serves as the official landing page for Duplicate File Remover. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Duplicate File Remover today!**
+
+---
+**Last updated:** 2026-09-07 19:34:50 UTC
