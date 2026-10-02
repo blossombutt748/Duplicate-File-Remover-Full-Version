@@ -241,4 +241,4 @@ This repository serves as the official landing page for Duplicate File Remover. 
 **Get the most recent version of Duplicate File Remover today!**
 
 ---
-**Last updated:** 2026-10-02 15:21:56 UTC
+**Last updated:** 2026-10-02 20:20:31 UTC
